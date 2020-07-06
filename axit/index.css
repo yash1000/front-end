@@ -1,0 +1,872 @@
+#iy{ font-size:48px; 
+        padding-right: 40px;}
+#iz{
+        font-size:48px;
+        padding-right: 40px;
+        padding-left: 40px;
+}
+.header{
+        background-color: black;
+        }
+
+.navi{
+        margin-right: 30px;
+        text-align: right;
+     }
+.ima{
+        background-image: url(image/Logo.png);
+        height: 27px;
+        width: 79px;
+        margin-left: 9%;
+    }
+li>a{
+        color: white;
+        z-index: 1;
+    }
+.cont{
+        margin-right: 10%;
+}
+.image1{
+    background-image:url(image/Clip.png);
+    /* height: 100%;
+    width: 100%; */
+    background-size: cover;
+    background-attachment: fixed;
+    max-width: fit-content;
+}
+/* .image1::before{
+        background-color: rgba(7, 7, 8, 0.5);
+        position: absolute;
+        content: "";
+        top: 0;
+        height: 96%;
+        width: 100%;
+        background-size: cover;
+    } */
+.imgi2{
+        background-image: url(image/Logo@2x.png);
+        margin-top: 19%;
+        margin-left: 20%;
+        width: 175px;
+        height: 60px;
+        background-repeat: no-repeat;
+        }
+
+.mk{
+      
+        color: #FFFFFF;
+   
+        font-size: 36px;
+        margin-left: 20%;
+        width: 88%;
+        height: 85px;
+        margin-top: 25px;
+        }
+ .imgi3{
+        background-image: url(image/divider_white_u72.png);
+        margin-top: 26px;
+        margin-left: 20%;
+        width: 84px;
+        height: 22px;
+        }
+.imgi4{
+     margin-top: 24px;
+margin-left: 20%;
+width: 462px;
+height: 65px;
+color: white;
+}
+.imgi5{
+        margin-top: 24px;
+   margin-left: 20%;
+background-color: transparent;
+   }
+   .we{
+        padding:10px;
+         margin-left: 50px;
+         margin-top: 30px;
+        width: 70%;
+   }
+.qw{
+        background-color: silver;
+        margin-top: 140px;
+margin-left: 140px;
+width: 360px;
+font-size: 20px;
+height: 54px;
+padding-top:10px;
+}
+.er{
+        background-color: white;
+        margin-left: 140px;
+        width: 360px;
+        height: 273px;
+}
+.ty{
+        width: 360px;
+        height: 54px;
+        margin-left: 140px;
+        background-color: burlywood;
+        font-size: 15px;
+        padding-top:13px ;
+}
+.eee{
+        width: 100%;
+height: 105px;
+background-color: tomato;
+}
+.jk{
+        margin-left: 151px;
+        padding-top:17px;
+        font-size:20px;
+        width: 125px;
+        height: 27px;
+}
+.jp{
+        margin-left: 151px;
+        width: 364px;
+height: 39px;
+margin-top: 15px;
+}
+.im1{
+        background-image: url(image/tab_1_button_u83_selected.png);
+      margin-top: 146px;
+    margin-left: 20%;
+    width: 114px;
+    height: 114px;
+    background-repeat: no-repeat;
+    position: relative;
+    }
+    .text3{
+        color: white;
+        position: absolute;
+    margin-top: 41;
+    margin-left: 36;
+    
+    }
+    .im2{
+        background-image: url(image/image_right_u255.png);
+        margin-top: 188px;
+    margin-left: 36px;
+    width: 320px;
+    height: 253px;
+    }
+    button{
+      padding: 0px !important;
+    }
+
+    .image3{
+        background-image: url(image/image_left_sub_list_u260.png);
+      align-items: center;
+      width: 553px;
+      height: 403px;
+      background-repeat: no-repeat;
+      }
+      .center {
+        display: block;
+        margin-left: 13%;
+        margin-top: 20%;
+      }
+      .col-6{
+        padding: 0px !important;
+      }
+      .icon1{
+        background-size: 40px;
+        background-image: url(image/Group1.png);
+        width: 40px;
+        height: 40px;
+        margin-top: 46px;
+        margin-left: 143px;
+        margin-right: 59px;
+      }
+      .mng{
+        font-size: 36px;
+        margin-top: 8%;
+        margin-left: 143px;
+      }
+      .mng1{
+        font-size: 18px;
+        margin-top: 3%;
+        margin-left: 143px;
+        width: 70%;
+      }
+      .title{
+        margin-left:50px;
+      }
+      .mng2{
+        font-size: 18px;
+        margin-left:50;
+        margin-right: 0px !important;
+        width: 410px;
+        /* width: 980%; */
+      }
+      .divd1{
+        background-image: url(image/divider_orange_u7.png);
+        width: 70px;
+        margin-left: 143px;
+        margin-top: 3%;
+      height: 2px;
+      }
+
+      .image4{
+        background-image: url(image/image_right_standard_u262.png);
+      align-items: center;
+      width: 553px;
+      height: 403px;
+      background-repeat: no-repeat;
+      margin-top: 90px;
+      }
+      
+      .ic1{
+        background-image: url(image/Group3.png);
+        width: 70px;
+      height: 70px;
+      align-items: center;
+      margin-left: 40%;
+      }
+      .ic2{
+      background-image: url(image/Group4.png);
+      width: 70px;
+      height: 70px;
+      margin-left: 40%;
+      }
+      .ic3{
+      background-image: url(image/Group5.png);
+      width: 70px;
+      height: 70px;
+      margin-left: 40%;
+      }
+      .tt{
+        padding-top: 5%;
+        font-size: 36px;
+      }
+
+.bg1{
+        background-image: url(image/u25_state0.png);
+        width: 100%;
+      height: 320px;
+      position: relative;
+      }
+      .bg1::before{
+          background-color: rgba(7, 7, 8, 0.5);
+          top: 0;
+          position: absolute;
+        z-index: -1;
+          height: 100%;
+          width: 100%;
+          content: ""   ;
+      }
+      .col-12{
+        padding: 0px !important;
+      }
+      .bg2{
+        background-image: url(image/divider_white_u72.png);
+       margin-left: 46%;
+      width: 84px;
+      height: 22px;
+      }
+      .btn{
+          padding: 0 !important;
+      }
+      .txtt1{
+        font-size: 36px;
+        padding-top: 62px;
+        color: white;
+      }
+      .but{
+        width: 135px;
+        height: 42px;
+        color: transparent;
+        margin-left: -15px;
+        color: black;
+      }
+      .txtt2{
+        padding-top: 17px;
+        color: white;
+      }
+      .i1{
+        background-image: url(image/divider_orange_u7.png);
+        width: 64px;
+      height: 2px;
+      }
+      .bty{
+        margin-top: 52px;
+        background-color: orangered;
+        border-radius: 10%;
+        color: white;
+      }
+      .ji{
+        width: 531px;
+        margin-top: 26px;
+      }
+      .last {
+
+        width: 100% !important;
+         height: 100px;
+         background: #000000;
+         opacity: 1;
+         color: #CCCCCC;
+         font-size: 24px;
+         text-align: center;
+       }
+       .ll{
+        width: 531px;
+        margin-top: 77px;
+       }
+       .lg{
+        width: 531px;
+        margin-top: 5px;
+       }
+.ol{
+        margin-top: 77PX
+}
+.tu{
+        margin-top: 17px;
+        width:125px;
+        height: 27px;
+        position: absolute;
+        font-size: 20px;
+
+}
+.ip{
+        padding-top:50px;
+        width: 364px;
+        height: 39px;
+        font-size: 14px;
+}
+.le{
+        margin-top: 130px; 
+        font-size: 36px;
+}
+.l{
+        font-size: 36px;    
+}
+.rw{
+        margin-top: 47px;
+        font-size: 20px;
+}
+.rp{
+        margin-top: 47px;
+        font-size: 20px;
+}
+
+
+       @media (max-width:991px){
+    
+        #iy{ font-size:24px; 
+                padding-right: 20px;}
+        #iz{
+                font-size:24px;
+                padding-right: 20px;
+                padding-left: 20px;
+        }
+ 
+    
+        .ic1{
+                background-image: url(image/Group3.png);
+                width: 40px;
+              height: 40px;
+              align-items: center;
+              margin-left: 40s%;
+              background-size: cover;
+              }
+              .ic2{
+              background-image: url(image/Group4.png);
+              width: 40px;
+              height: 40px;
+              background-size: cover;
+              margin-left: 40%;
+              }
+              .ic3{
+              background-image: url(image/Group5.png);
+              width: 40px;
+              height: 40px;
+              margin-left: 40%;
+              background-size: cover;
+              }
+        .tt{
+                padding-top: 5%;
+                font-size: 20px;
+              }
+        .center {
+                display: block;
+                margin-left: 13%;
+                margin-top: 10%;
+                margin-bottom: 50px;
+              }
+               .l{
+                       font-size: 20px;
+               }
+        .rp{
+                margin-top: 10px;
+                font-size: 20px;
+        }
+               .rw{
+                margin-top: 47px;
+                font-size: 14px;
+               }
+        .le{
+                margin-top: 146px; 
+                font-size: 20px;
+        }
+        .ip{
+                padding-top:50px;
+                width: 364px;
+                height: 39px;
+                font-size: 14px;
+        }
+                .navi{
+                        margin-right:15px
+                        text-align: right;
+                     }
+        
+                     .ima{
+                        background-image: url(image/Logo.png);
+                        height: 27px;
+                        width: 79px;
+                        margin-left: 3%;
+
+                    }
+                    .cont{
+                        margin-right: 5%;
+                }
+                .qw{
+                        background-color: silver;
+                        margin-top: 75px;
+                margin-left: 70px;
+                width: 300px;
+                font-size: 20px;
+                height: 50px;
+                padding-top:10px;
+                }
+                .er{
+                        background-color: white;
+                        margin-left: 70px;
+                        width: 300px;
+                        height: 200px;
+                }
+                .ty{
+                        width: 300px;
+                        height: 50px;
+                        margin-left: 70px;
+                        background-color: burlywood;
+                        font-size: 15px;
+                        padding-top:13px ;
+                }
+                .we{
+                        padding:10px;
+                         margin-left: 60px;
+                         margin-top: 15px;
+                        width: 60%;
+                   }
+                .mk{
+      
+                        color: #FFFFFF;
+                   
+                        font-size: 20px;
+                        margin-left: 20%;
+                        width: 88%;
+                        height: 85px;
+                        margin-top: 10px;
+                        }
+                 .imgi3{
+                        background-image: url(image/divider_white_u72.png);
+                        margin-top: 10px;
+                        margin-left: 20%;
+                        width: 84px;
+                        height: 22px;
+                        }
+                .imgi4{
+                     margin-top: 10px;
+                margin-left: 20%;
+                width: 300px;
+                height: 65px;
+                color: white;
+                }
+
+                .imgi5{
+                        margin-top: 30px;
+                   margin-left: 20%;
+                background-color: transparent;
+
+                   }
+                   .ll{
+                        width: 400px;
+                        margin-top: 77px;
+                       }
+                       .lg{
+                        width: 400px;
+                        margin-top: 73px;
+                        margin-left: 50px;
+                       }
+                       .ji{
+                        width: 400px;
+                        margin-top: 26px;
+                      }
+                      .ol{
+                        margin-top: 77px;
+                        margin-left: 50px;
+                }
+                .image3{
+                        background-image: url(image/image_left_sub_list_u260.png);
+                      align-items: center;
+                      width: 400px;
+                      height: 300px;
+                      background-repeat: no-repeat;
+                      background-size: cover;
+                      }
+                      .txtt1{
+                              font-size: 20px;
+                      }
+                      .txtt2{
+                              font-size: 14px;
+                      }
+                    
+                        .bg2{
+                                background-image: url(image/divider_white_u72.png);
+                               margin-left: 45%;
+                              width: 60px;
+                              height: 20px;
+                              }
+                      
+                      .image4{
+                        background-image: url(image/image_right_standard_u262.png);
+                      align-items: center;
+                      width: 400px;
+                      height: 300px;
+                      background-repeat: no-repeat;
+                      background-size: cover;
+                      margin-top: 80px;
+                      }
+                      .mng{
+                        font-size: 20px;
+                        margin-top: 4   %;
+                        margin-left: 100px;
+                      }
+                      .mng1{
+                        font-size: 14px;
+                        margin-top: 3%;
+                        margin-left: 100px;
+                        width: 70%;
+                      }
+                      .title{
+                        margin-left:25px;
+                      }
+                      .mng2{
+                        font-size: 14px;
+                        margin-left:30;
+                        margin-right: 0px !important;
+                        width: 330px;
+                        /* width: 980%; */
+                      }
+                      
+                      .icon1{
+                        background-size: 20px;
+                        background-image: url(image/Group1.png);
+                        width: 40px;
+                        height: 40px;
+                        margin-top: 10px;
+                        margin-left: 100px;
+                        margin-right: 59px;
+                        background-repeat: no-repeat;
+                      }
+                      .divd1{
+                        background-image: url(image/divider_orange_u7.png);
+                        width: 64px;
+                        margin-left:100px;
+                        margin-top: 3%;
+                      height: 2px;
+                      }
+                      .tu{
+                        margin-top: 17px;
+                        width:100px;
+                        height: 20px;
+                        position: absolute;
+                        font-size: 14px;
+                
+                }
+                .imgi2{
+                        background-image: url(image/Logo@2x.png);
+                        margin-top: 19%;
+                        margin-left: 20%;
+                        width: 100px;
+                        height: 35px;
+                        background-size: cover;
+                        background-repeat: no-repeat;
+                        }
+                    
+       }        
+
+
+
+       @media (max-width:768px){
+        .imgi3{
+                background-image: url(image/divider_white_u72.png);
+                margin-top: -30px;
+                margin-left: 20%;
+                width: 84px;
+                height: 22px;
+                }
+   
+        .ic1{
+                background-image: url(image/Group3.png);
+                width: 40px;
+              height: 40px;
+              align-items: center;
+              margin-left: 40s%;
+              background-size: cover;
+              }
+              .ic2{
+              background-image: url(image/Group4.png);
+              width: 40px;
+              height: 40px;
+              background-size: cover;
+              margin-left: 40%;
+              }
+              .ic3{
+              background-image: url(image/Group5.png);
+              width: 40px;
+              height: 40px;
+              margin-left: 40%;
+              background-size: cover;
+              }
+        .tt{
+                padding-top: 5%;
+                font-size: 20px;
+              }
+        .center {
+                display: block;
+                margin-left: 13%;
+                margin-top: 10%;
+                margin-bottom: 50px;
+              }
+               .l{
+                       font-size: 20px;
+               }
+        .rp{
+                margin-top: 10px;
+                font-size: 20px;
+        }
+               .rw{
+                margin-top: 40px;
+                font-size: 10px;
+               }
+        .le{
+                margin-top: 100px; 
+                font-size: 14px;
+        }
+        .ip{
+                padding-top:50px;
+                width: 200px;
+                height: 39px;
+                font-size: 14px;
+        }
+                .navi{
+                        margin-right:15px
+                        text-align: right;
+                     }
+        
+                     .ima{
+                        background-image: url(image/Logo.png);
+                        height: 27px;
+                        width: 79px;
+                        margin-left: 3%;
+
+                    }
+                    .cont{
+                        margin-right: 5%;
+                }
+                .qw{
+                        background-color: silver;
+                        margin-top: 35px;
+                margin-left: 40px;
+                width: 250px;
+                font-size: 20px;
+                height: 50px;
+                padding-top:10px;
+                font-size: 14px;
+                }
+                .er{
+                        background-color: white;
+                        margin-left: 40px;
+                        width: 250px;
+                        height: 100px;
+                }
+                .ty{
+                        width: 250px;
+                        height: 50px;
+                        margin-left:40px;
+                        background-color: burlywood;
+                        font-size: 15px;
+                        padding-top:13px ;
+                }
+                .we{
+                        padding:5px;
+                         margin-left: 40px;
+                         margin-top: 10px;
+                        width: 60%;
+                        height: 20%;
+                   }
+                .mk{
+      
+                        color: #FFFFFF;
+                   
+                        font-size: 14px;
+                        margin-left: 20%;
+                        width: 88%;
+                        height: 85px;
+                        margin-top: 10px;
+                        }
+                        .imgi2{
+                                background-image: url(image/Logo@2x.png);
+                                margin-top: 10%;
+                                margin-left: 20%;
+                                width: 100px;
+                                height: 35px;
+                                background-size: cover;
+                                background-repeat: no-repeat;
+                                }
+               
+                .imgi4{
+                     margin-top: 10px;
+                margin-left: 20%;
+                width: 300px;
+                height: 65px;
+                color: white;
+                font-size: 14px;
+                }
+
+                .imgi5{
+                        margin-top: 30px;
+                   margin-left: 20%;
+                background-color: transparent;
+
+                   }
+                   .ll{
+                        width: 250px;
+                        margin-top: 77px;
+                       }
+                       .lg{
+                        width: 250px;
+                        margin-top: 73px;
+                        margin-left: 50px;
+                       }
+                       .ji{
+                        width: 250px;
+                        margin-top: 26px;
+                      }
+                      .ol{
+                        margin-top: 77px;
+                        margin-left: 50px;
+                }
+                .image3{
+                        background-image: url(image/image_left_sub_list_u260.png);
+                      align-items: center;
+                      width: 300px;
+                      height: 200px;
+                      background-repeat: no-repeat;
+                      background-size: cover;
+                      }
+                      .txtt1{
+                              font-size: 20px;
+                      }
+                      .txtt2{
+                              font-size: 14px;
+                      }
+                    
+                        .bg2{
+                                background-image: url(image/divider_white_u72.png);
+                               margin-left: 45%;
+                              width: 60px;
+                              height: 20px;
+                              }
+                      
+                      .image4{
+                        background-image: url(image/image_right_standard_u262.png);
+                      align-items: center;
+                      width: 300px;
+                      height: 200px;
+                      background-repeat: no-repeat;
+                      background-size: cover;
+                      margin-top: 90px;
+                      }
+                      .mng{
+                        font-size: 14px;
+                        margin-top: 4%;
+                        margin-left: 30px;
+                      }
+                      .mng1{
+                        font-size: 10px;
+                        margin-top: 3%;
+                        margin-left: 30px;
+                        width: 70%;
+                      }
+                      .title{
+                        margin-left:25px;
+                      }
+                      .mng2{
+                        font-size: 10px;
+                        margin-left:30;
+                        margin-right: 0px !important;
+                        width: 200px;
+                        /* width: 980%; */
+                      }
+                      
+                      .icon1{
+                        background-size: 20px;
+                        background-image: url(image/Group1.png);
+                        width: 40px;
+                        height: 40px;
+                        margin-top: 10px;
+                        margin-left: 30px;
+                        margin-right: 59px;
+                        background-repeat: no-repeat;
+                      }
+                      .divd1{
+                        background-image: url(image/divider_orange_u7.png);
+                        width: 40px;
+                        margin-left:30px;
+                        margin-top: 3%;
+                      height: 2px;
+                      }
+                      .tu{
+                        margin-top: 17px;
+                        width:100px;
+                        height: 20px;
+                        position: absolute;
+                        font-size: 14px;
+                
+                }
+               
+                #iy{ font-size:24px; 
+                        padding-right: 10px;}
+                #iz{
+                        font-size:24px;
+                        padding-right: 10px;
+                        padding-left: 10px;
+                }
+                .im1{
+                        background-image: url(image/tab_1_button_u83_selected.png);
+                      margin-top: 120px;
+                    margin-left: 10%;
+                    width: 70px;
+                    height: 70px;
+                    background-repeat: no-repeat;
+                    position: relative;
+                    }
+                    .text3{
+                        color: white;
+                        position: absolute;
+                    margin-top: 20px;
+                    margin-left: 16px;}
+
+                    .im2{
+                        background-image: url(image/image_right_u255.png);
+                        margin-top: 150px;
+                    margin-left: 16px;
+                    width: 200px;
+                    height: 175px;
+                    background-size: cover;
+                    }
+
+        }
